@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppGui",
+    "\\AppGui\\AppGui",
+    "\\BotNetflix",
+    "\\speechModality",
+    "\\speechModality\\speechModality"
+  ],
+  "SelectedNode": "\\AppGui\\AppGui\\MainWindow.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}
